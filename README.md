@@ -1,2 +1,3 @@
-# june_user_manual
-A paper for June
+# Observation and Analysis of Clingy Behavior in a June-Dependent Felid
+## June's User Manual
+A sincere paper written for June.
